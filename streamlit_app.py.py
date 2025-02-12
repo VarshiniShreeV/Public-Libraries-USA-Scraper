@@ -2,6 +2,7 @@ import os
 import sqlite3
 import streamlit as st
 import pandas as pd
+import selenium
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
